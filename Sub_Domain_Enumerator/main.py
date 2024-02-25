@@ -12,6 +12,7 @@ def request(url):
 
 
 def main():
+    print(" hello")
     target_url = input("Enter the target url : ")
     with open("subdmainwordlist.txt", "r") as wordlist:
         for line in wordlist:
