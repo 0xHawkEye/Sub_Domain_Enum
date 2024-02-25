@@ -5,7 +5,7 @@ def request(url):
     try:
         result = requests.get("https://" + url)
         if result:
-            print("[+] Subdomain discovered ------->  " + url)
+            print("[+] Subdomain discovered ------->  " + "'"+url+"'")
 
     except:
         pass
