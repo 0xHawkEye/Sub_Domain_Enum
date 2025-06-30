@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/github/license/AyushKr41/Sub_Domain_Enum)](https://github.com/AyushKr41/Sub_Domain_Enum/blob/main/LICENSE)
 ![Issues](https://img.shields.io/github/issues/AyushKr41/Sub_Domain_Enum)
-![Forks](https://img.shields.io/github/forks/AyushKr41/Sub_Domain_Enum)
+![Forks](https://img.shields.io/github/forks/AyushKr41/Sub_Domain_Enum?cacheSeconds=60)
 ![Stars](https://img.shields.io/github/stars/AyushKr41/Sub_Domain_Enum)
 ![Last Commit](https://img.shields.io/github/last-commit/AyushKr41/Sub_Domain_Enum)
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
