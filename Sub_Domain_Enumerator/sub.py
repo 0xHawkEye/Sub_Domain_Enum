@@ -10,8 +10,6 @@ total_domains = 0
 print_lock = threading.Lock()
 progress_lock = threading.Lock()
 
-
-
 def request(url):
     global progress
     try:
