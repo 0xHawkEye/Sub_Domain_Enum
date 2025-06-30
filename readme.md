@@ -1,10 +1,15 @@
 # Sub_Domain_Enum
 
-![License: MIT](https://img.shields.io/github/license/AyushKr41/subenum)
-![Issues](https://img.shields.io/github/issues/AyushKr41/subenum)
-![Forks](https://img.shields.io/github/forks/AyushKr41/subenum)
-![Stars](https://img.shields.io/github/stars/AyushKr41/subenum)
-![Last Commit](https://img.shields.io/github/last-commit/AyushKr41/subenum)
+![License: MIT](https://img.shields.io/github/license/AyushKr41/Sub_Domain_Enum
+)
+![Issues](https://img.shields.io/github/issues/AyushKr41/Sub_Domain_Enum
+)
+![Forks](https://img.shields.io/github/forks/AyushKr41/Sub_Domain_Enum
+)
+![Stars](https://img.shields.io/github/stars/AyushKr41/Sub_Domain_Enum
+)
+![Last Commit](https://img.shields.io/github/last-commit/AyushKr41/Sub_Domain_Enum
+)
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
