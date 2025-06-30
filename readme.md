@@ -6,7 +6,7 @@
 )
 ![Forks](https://img.shields.io/github/forks/AyushKr41/Sub_Domain_Enum
 )
-![Stars](https://img.shields.io/github/stars/AyushKr41/Sub_Domain_Enum
+![Stars](https://img.shields.io/github/stars/AyushKr41/cllg_projects
 )
 ![Last Commit](https://img.shields.io/github/last-commit/AyushKr41/Sub_Domain_Enum
 )
